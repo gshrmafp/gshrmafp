@@ -6,8 +6,8 @@
 - 🌱 **Currently Exploring:** Spring Boot, REST APIs, and full-stack web development  
 
 ## 🛠️ Tech & Skills
-- **Frontend:** React.js, HTML, CSS, JavaScript  
-- **Backend:** Java, Spring Boot  
+- **Frontend:** React.js,React Native, HTML, CSS, JavaScript, TypeScript  
+- **Backend:** Java, Spring Boot, MYSQL, MongoDB Atlas.
 - **Tools & Concepts:** REST APIs, Agile Development, UI Design, Data Analysis  
 
 ## 🏆 Highlights
